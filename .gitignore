@@ -1,0 +1,13 @@
+# Build artifacts
+bin/
+obj/
+
+# VS
+*.suo
+*.user
+
+# CSV and data files
+taxi-fare-train.csv
+
+# ML.NET model output
+MLModel.zip
